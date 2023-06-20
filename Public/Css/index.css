@@ -2,3 +2,11 @@
 .color-green{color: green;}
 .color-green ul li a {color: purple;}
 #link-home{color:aquamarine;}
+
+.cover-container figure img{
+    width: 100%;
+}
+.cover-containervideo div video{
+    width: 100%;
+}
+
