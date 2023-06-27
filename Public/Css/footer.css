@@ -1,0 +1,22 @@
+
+footer{
+
+    text-align: center;
+    border-top: 1px solid #f0f5ff;
+    padding: 20px;
+    width: 75%;
+    margin: auto;/*margem automatia, utilizada para centralizar  o bloco*/
+    text-transform: lowercase; /*transforma todo texto em letra minuscula*/
+
+}
+
+footer section span:first-child /* first child  ele  seleciona  somente  o primeiro span dentro da section */{
+    color: #5e49ff;
+
+}
+
+
+footer section span:last-child /* first child  ele  seleciona  somente  o ultimo span dentro da section */{
+    color: #3bd42d; 
+
+}
